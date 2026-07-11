@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Analysis – Internship Task 1
+# 🎬 Netflix Data Analysi
 
 This project is part of my **Data Analysis Internship at CODTECH**.  
 It focuses on analyzing Netflix's Movies and TV Shows dataset using **Python and pandas**.

@@ -1,6 +1,5 @@
 # 🎬 Netflix Data Analysis
 
-This project is part of my **Data Analysis Internship at CODTECH**.  
 It focuses on analyzing Netflix's Movies and TV Shows dataset using **Python and pandas**.
 
 ---
@@ -34,13 +33,6 @@ It focuses on analyzing Netflix's Movies and TV Shows dataset using **Python and
 
 ---
 
-## 💼 Internship Credit
-
-**Task 1: Big Data Analysis**  
-Internship under: **CODTECH**  
-Performed by: **Lokesh Goud**  
-
----
 
 ## 🚀 Tools Used
 
